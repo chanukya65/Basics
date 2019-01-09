@@ -1,0 +1,339 @@
+{
+	'report': {
+		'type': 'trended',
+		'elements': [{
+			'id': 'eVar48',
+			'name': 'DemandBase Custom 2',
+			'classification': 'SurfID'
+		}, {
+			'id': 'evar2',
+			'name': 'Page URL c02'
+		}],
+		'reportSuite': {
+			'id': 'servn-servicenow.com-prod',
+			'name': '.Com'
+		},
+		'period': 'Mon. 23 Jul. 2018',
+		'metrics': [{
+			'id': 'uniquevisitors',
+			'name': 'Unique Visitors',
+			'type': 'number',
+			'decimals': 0,
+			'latency': 1988,
+			'current': False
+		}, {
+			'id': 'visits',
+			'name': 'Visits',
+			'type': 'number',
+			'decimals': 0,
+			'latency': 1988,
+			'current': False
+		}, {
+			'id': 'pageviews',
+			'name': 'Page Views',
+			'type': 'number',
+			'decimals': 0,
+			'latency': 1988,
+			'current': False
+		}, {
+			'id': 'bouncerate',
+			'name': 'Bounce Rate',
+			'type': 'percent',
+			'decimals': 10,
+			'latency': 1988,
+			'current': False
+		}, {
+			'id': 'cm5509_576af356408496930352c481',
+			'name': 'Time Spent on Page (min)',
+			'type': 'decimal',
+			'decimals': 2,
+			'latency': 1988,
+			'current': False
+		}, {
+			'id': 'event89',
+			'name': 'e89 Video Views',
+			'type': 'number',
+			'decimals': 0,
+			'latency': 1988,
+			'current': False
+		}, {
+			'id': 'event17',
+			'name': 'e17 Form Success',
+			'type': 'number',
+			'decimals': 0,
+			'latency': 1988,
+			'current': False
+		}, {
+			'id': 'cm5509_59e1193408051050b2f3ec64',
+			'name': 'Form Submission Rate',
+			'type': 'percent',
+			'decimals': 2,
+			'latency': 1988,
+			'current': False
+		}],
+		'segments': [{
+			'id': 's300007365_5b1ee51fbef0d34e1bda4081',
+			'name': 'Customer Success Pages and Value Calc'
+		}],
+		'data': [{
+			'name': 'Mon. 23 Jul. 2018',
+			'year': 2018,
+			'month': 7,
+			'day': 23,
+			'breakdown': [{
+				'name': 'ISP Visitor',
+				'url': '',
+				'counts': ['244', '266', '735', '42.4124513618', '2.77', '4', '23', '8.65'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success.html',
+					'url': '',
+					'counts': ['131', '138', '252', '74.7252747252', '1.69', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-it.html',
+					'url': '',
+					'counts': ['25', '27', '49', '20.0000000000', '3.07', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-hr.html',
+					'url': '',
+					'counts': ['17', '18', '57', '12.5000000000', '1.96', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/plan/start-implementation.html',
+					'url': '',
+					'counts': ['17', '18', '19', '100.0000000000', '1.31', '0', '1', '5.56']
+				}, {
+					'name': 'www.servicenow.com/success/plan.html',
+					'url': '',
+					'counts': ['15', '15', '50', '0.0000000000', '0.72', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/performance-analytics.html',
+					'url': '',
+					'counts': ['13', '13', '15', '71.4285714285', '2.33', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-csm.html',
+					'url': '',
+					'counts': ['11', '11', '23', '100.0000000000', '0.67', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html',
+					'url': '',
+					'counts': ['10', '13', '16', '100.0000000000', '2.08', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/plan/it/cmdb-deployment.html',
+					'url': '',
+					'counts': ['7', '7', '16', '0.0000000000', '6.62', '4', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/optimize.html',
+					'url': '',
+					'counts': ['7', '8', '12', '0.0000000000', '0.76', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['244', '266', '735', '42.4124513618', '2.77', '4', '23', '8.65']
+			}, {
+				'name': 'Not In List',
+				'url': '',
+				'counts': ['220', '252', '774', '28.1632653061', '3.31', '0', '14', '5.56'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success.html',
+					'url': '',
+					'counts': ['100', '112', '201', '40.0000000000', '0.95', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-it.html',
+					'url': '',
+					'counts': ['39', '44', '79', '68.7500000000', '1.08', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/plan.html',
+					'url': '',
+					'counts': ['14', '15', '42', '50.0000000000', '1.12', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-hr.html',
+					'url': '',
+					'counts': ['14', '14', '32', '0.0000000000', '0.87', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/performance-analytics.html',
+					'url': '',
+					'counts': ['11', '12', '17', '50.0000000000', '1.67', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html',
+					'url': '',
+					'counts': ['11', '14', '22', '44.4444444444', '2.51', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/optimize.html',
+					'url': '',
+					'counts': ['11', '11', '35', '25.0000000000', '0.61', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-csm.html',
+					'url': '',
+					'counts': ['10', '11', '21', '0.0000000000', '1.80', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/plan/it/cmdb-deployment.html',
+					'url': '',
+					'counts': ['9', '10', '11', '50.0000000000', '0.54', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html',
+					'url': '',
+					'counts': ['9', '9', '16', '33.3333333333', '1.10', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['220', '252', '774', '28.1632653061', '3.31', '0', '14', '5.56']
+			}, {
+				'name': '::unspecified::',
+				'url': '',
+				'counts': ['39', '39', '60', '36.0000000000', '0.36', '0', '0', '0.00'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success.html',
+					'url': '',
+					'counts': ['13', '13', '18', '20.0000000000', '0.42', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-it.html',
+					'url': '',
+					'counts': ['8', '8', '19', '20.0000000000', '0.84', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-csm.html',
+					'url': '',
+					'counts': ['7', '7', '9', '100.0000000000', '0.16', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/optimize/now/design-world-class-service-catalog.html',
+					'url': '',
+					'counts': ['3', '3', '3', '100.0000000000', '0.00', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/cmdb-discovery.html',
+					'url': '',
+					'counts': ['3', '3', '3', '66.6666666666', '0.01', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/plan/start-implementation.html',
+					'url': '',
+					'counts': ['2', '2', '2', '100.0000000000', '0.00', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-it-form.html',
+					'url': '',
+					'counts': ['1', '1', '1', '100.0000000000', '0.00', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/drive-adoption.html',
+					'url': '',
+					'counts': ['1', '1', '1', '100.0000000000', '0.00', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/performance-analytics.html',
+					'url': '',
+					'counts': ['1', '1', '1', '0.0000000000', '0.35', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/plan/start-implementation/stage1.html',
+					'url': '',
+					'counts': ['1', '1', '1', '0.0000000000', '0.07', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['39', '39', '60', '36.0000000000', '0.36', '0', '0', '0.00']
+			}, {
+				'name': 'ACCT0019679',
+				'url': '',
+				'counts': ['5', '6', '13', '33.3333333333', '3.48', '0', '5', '83.33'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/lpbp/integrate-your-tenable-securitycenter-with-servicenow.html',
+					'url': '',
+					'counts': ['3', '3', '10', '33.3333333333', '5.96', '0', '5', '166.67']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/performance-analytics.html',
+					'url': '',
+					'counts': ['1', '2', '2', '50.0000000000', '1.50', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/security-center/stage1.html',
+					'url': '',
+					'counts': ['1', '1', '1', 'INF', '0.00', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/products/servicenow-platform/configuration-management-database.html',
+					'url': '',
+					'counts': ['0', '0', '0', '0.0000000000', 'INF', '0', '0', 'INF']
+				}],
+				'breakdownTotal': ['5', '6', '13', '33.3333333333', '3.48', '0', '5', '83.33']
+			}, {
+				'name': 'ACCT0001406',
+				'url': '',
+				'counts': ['3', '3', '15', '33.3333333333', '2.61', '0', '0', '0.00'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success.html',
+					'url': '',
+					'counts': ['2', '2', '9', '50.0000000000', '1.45', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/value-calculator-it.html',
+					'url': '',
+					'counts': ['2', '2', '4', '0.0000000000', '1.99', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/plan/start-implementation.html',
+					'url': '',
+					'counts': ['1', '1', '1', 'INF', '0.75', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/plan.html',
+					'url': '',
+					'counts': ['1', '1', '1', 'INF', '0.18', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['3', '3', '15', '33.3333333333', '2.61', '0', '0', '0.00']
+			}, {
+				'name': 'ACCT0013377',
+				'url': '',
+				'counts': ['2', '2', '2', '100.0000000000', '0.00', '0', '0', '0.00'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success.html',
+					'url': '',
+					'counts': ['1', '1', '1', '100.0000000000', '0.00', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/performance-analytics.html',
+					'url': '',
+					'counts': ['1', '1', '1', '100.0000000000', '0.00', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['2', '2', '2', '100.0000000000', '0.00', '0', '0', '0.00']
+			}, {
+				'name': 'ACCT0066264',
+				'url': '',
+				'counts': ['2', '2', '9', '50.0000000000', '1.59', '0', '0', '0.00'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success.html',
+					'url': '',
+					'counts': ['2', '2', '5', '50.0000000000', '1.21', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy.html',
+					'url': '',
+					'counts': ['1', '1', '4', 'INF', '0.77', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['2', '2', '9', '50.0000000000', '1.59', '0', '0', '0.00']
+			}, {
+				'name': 'ACCT0065581',
+				'url': '',
+				'counts': ['2', '2', '2', '100.0000000000', '0.00', '0', '0', '0.00'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success.html',
+					'url': '',
+					'counts': ['2', '2', '2', '100.0000000000', '0.00', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['2', '2', '2', '100.0000000000', '0.00', '0', '0', '0.00']
+			}, {
+				'name': 'ACCT0023867',
+				'url': '',
+				'counts': ['2', '2', '2', '100.0000000000', '0.63', '0', '0', '0.00'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success/extend/automate-management/stage4.html',
+					'url': '',
+					'counts': ['1', '1', '1', '100.0000000000', '0.00', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success.html',
+					'url': '',
+					'counts': ['1', '1', '1', 'INF', '1.27', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['2', '2', '2', '100.0000000000', '0.63', '0', '0', '0.00']
+			}, {
+				'name': 'ACCT0003924',
+				'url': '',
+				'counts': ['2', '2', '2', '100.0000000000', '0.00', '0', '0', '0.00'],
+				'breakdown': [{
+					'name': 'www.servicenow.com/success/plan/it/cmdb-deployment.html',
+					'url': '',
+					'counts': ['1', '1', '1', '100.0000000000', '0.00', '0', '0', '0.00']
+				}, {
+					'name': 'www.servicenow.com/success/deploy/now/security-center/stage2.html',
+					'url': '',
+					'counts': ['1', '1', '1', '100.0000000000', '0.00', '0', '0', '0.00']
+				}],
+				'breakdownTotal': ['2', '2', '2', '100.0000000000', '0.00', '0', '0', '0.00']
+			}],
+			'breakdownTotal': ['623', '687', '1973', '35.6622998544', '2.82', '6', '55', '8.01']
+		}],
+		'totals': ['623', '687', '1973', '35.6622998544', '2.82', '6', '55', '8.01'],
+		'version': '1.4.18.10'
+	},
+	'waitSeconds': 0,
+	'runSeconds': 0
+}

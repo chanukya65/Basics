@@ -1,0 +1,1236 @@
+[
+    {
+        "id": "accountsummary",
+        "name": "Report Suite Totals",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "activity",
+        "name": "Activity",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "amo_cid",
+        "name": "AMO ID",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "amo_ef_id",
+        "name": "AMO EF ID",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "browser",
+        "name": "Browser",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "browserheight",
+        "name": "Browser Height",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "browsertype",
+        "name": "Browser Type",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "browserwidth",
+        "name": "Browser Width",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "category",
+        "name": "Category",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "clickmaplink",
+        "name": "Activity Map Link",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "clickmaplinkbyregion",
+        "name": "Activity Map Link By Region",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "clickmappage",
+        "name": "Activity Map Page",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "clickmapregion",
+        "name": "Activity Map Region",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "clickmapxy",
+        "name": "Activity Map XY",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "connectiontype",
+        "name": "Connection Type",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "cookiesenabled",
+        "name": "Cookies Enabled",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "customerloyalty",
+        "name": "Customer Loyalty",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "domain",
+        "name": "Domain",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "entrypage",
+        "name": "Entry Page",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "entrypageoriginal",
+        "name": "Original Entry Page",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar1",
+        "name": "Debug c01",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar10",
+        "name": "Days Since Last Visit c10",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar100",
+        "name": "OR Analytics Dev Logging",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar11",
+        "name": "Eloqua pages ( info.servicenow.com ) c11",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar12",
+        "name": "Time Parting c12",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar15",
+        "name": "User Agent c15",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar16",
+        "name": "Page Name c16",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar17",
+        "name": "Campaign Click ID c17",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar19",
+        "name": "Internal Campaign ID c19",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar2",
+        "name": "Page URL c02",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar21",
+        "name": "Event Descriptor Secondary c21",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar22",
+        "name": "Event Descriptor Primary c22",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar23",
+        "name": "Okta ID",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar28",
+        "name": "Fraction (sub domain) c28",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar29",
+        "name": "Site c29",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar3",
+        "name": "Adobe Marketing Cloud ID c03",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar30",
+        "name": "Section c30",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar31",
+        "name": "http/s",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar32",
+        "name": "Component Description",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar35",
+        "name": "Dedicated Country",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar36",
+        "name": "Referral Domain",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar4",
+        "name": "Referring URL c04",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar46",
+        "name": "DemandBase Standard",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar47",
+        "name": "DemandBase Custom 1",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar48",
+        "name": "DemandBase Custom 2",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar49",
+        "name": "DemandBase Custom 3",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar5",
+        "name": "User ID c05",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar50",
+        "name": "DemandBase Custom 4",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar51",
+        "name": "Internal Search Term c51",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar52",
+        "name": "Internal Search Results c52",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar53",
+        "name": "Internal Search Suggested Term c53",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar59",
+        "name": "Internal Search Filter c59",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar61",
+        "name": "Video Title c61",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar64",
+        "name": "Optimizely Test (64)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar65",
+        "name": "Optimizely Test (65)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar66",
+        "name": "Optimizely Test (66)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar67",
+        "name": "Optimizely Test (67)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar68",
+        "name": "Optimizely Test (68)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar69",
+        "name": "Optimizely Test (69)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar7",
+        "name": "Analytics Visitor ID c07",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar70",
+        "name": "Optimizely Test (70)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar71",
+        "name": "Optimizely Test (71)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar72",
+        "name": "Optimizely Test (72)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar73",
+        "name": "Optimizely Test (73)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar74",
+        "name": "Optimizely Test (74)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar75",
+        "name": "Optimizely Test (75)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar76",
+        "name": "Optimizely Test (76)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar77",
+        "name": "Optimizely Test (77)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar78",
+        "name": "Optimizely Test (78)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar79",
+        "name": "Optimizely Test (79)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar8",
+        "name": "Destination URL c08",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar80",
+        "name": "Optimizely Test (80)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar81",
+        "name": "Optimizely Test (81)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar82",
+        "name": "Optimizely Test (82)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar89",
+        "name": "Login Status",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar9",
+        "name": "Visit Number c09",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar90",
+        "name": "IP Address",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "evar91",
+        "name": "Drift",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "experience",
+        "name": "Experience",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "firsttouchchannel",
+        "name": "First Touch Marketing Channel",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "firsttouchchanneldetail",
+        "name": "First Touch Marketing Channel Detail",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "geocity",
+        "name": "GeoSegmentation City",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "geocountry",
+        "name": "GeoSegmentation Country",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "geodma",
+        "name": "GeoSegmentation U.S. DMA",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "georegion",
+        "name": "GeoSegmentation Region",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "geostate",
+        "name": "GeoSegmentation State",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "javaenabled",
+        "name": "Java Enabled",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "javascriptenabled",
+        "name": "JavaScript Enabled",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "javascriptversion",
+        "name": "JavaScript Version",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "language",
+        "name": "Language",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "lasttouchchannel",
+        "name": "Last Touch Marketing Channel",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "lasttouchchanneldetail",
+        "name": "Last Touch Marketing Channel Detail",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "linkcustom",
+        "name": "Custom Link",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "linkdownload",
+        "name": "File Download",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "linkexit",
+        "name": "Exit Link",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "listvar1",
+        "name": "Filter Search List",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mcaudiences",
+        "name": "MC Audiences",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobileaudiosupport",
+        "name": "Audio Support",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilecarrier",
+        "name": "Mobile Carrier",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilecolordepth",
+        "name": "Color Depth",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilecookiesupport",
+        "name": "Cookie Support",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobiledeviceid",
+        "name": "Mobile Device ID",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "mobiledevicename",
+        "name": "Devices",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobiledevicenumbertransmit",
+        "name": "Device Number Transmit (ON/OFF)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobiledevicetype",
+        "name": "Device Type",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobiledrm",
+        "name": "DRM",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobileimagesupport",
+        "name": "Image Support",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobileinformationservices",
+        "name": "Information Services",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilejavavm",
+        "name": "Java Version",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilemaildecoration",
+        "name": "Decoration Mail Support",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilemanufacturer",
+        "name": "Manufacturers",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilemaxbookmarkurllength",
+        "name": "Bookmark URL Length",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilemaxbrowserurllength",
+        "name": "Browser URL Length",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilemaxmailurllength",
+        "name": "Mail URL Length",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilenetprotocols",
+        "name": "Net Protocols",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobileos",
+        "name": "Operating System (deprecated)",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilepushtotalk",
+        "name": "PTT",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilescreenheight",
+        "name": "Screen Height",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilescreensize",
+        "name": "Screen Sizes",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilescreenwidth",
+        "name": "Screen Width",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "mobilevideosupport",
+        "name": "Video Support",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "monitorcolordepth",
+        "name": "Monitor Color Depth",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "monitorresolution",
+        "name": "Monitor Resolution",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "operatingsystem",
+        "name": "Operating System",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "operatingsystemtype",
+        "name": "Operating System Type",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "page",
+        "name": "Page",
+        "max_pathing_steps": 4,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "pagedepth",
+        "name": "Page Depth",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "pagesnotfound",
+        "name": "Pages Not Found",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "pathlength",
+        "name": "Path Length",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "product",
+        "name": "Product",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "prop1",
+        "name": "Debug t01",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop10",
+        "name": "Days Since Last Visit t10",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop12",
+        "name": "Time Parting t12",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop15",
+        "name": "User Agent t15",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop16",
+        "name": "Pagename t16",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop18",
+        "name": "Page Load Time t18",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop2",
+        "name": "Page URL t02",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop21",
+        "name": "Event Descriptor Secondary t21",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop22",
+        "name": "Event Descriptor Primary t22",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop27",
+        "name": "FriendlySite t27",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop28",
+        "name": "Fraction (sub domain) t28",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop29",
+        "name": "Site t29",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop3",
+        "name": "Adobe Marketing Cloud ID t03",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop30",
+        "name": "Section t30",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop31",
+        "name": "http/s",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop32",
+        "name": "Component Description",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop35",
+        "name": "Dedicated Country",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop36",
+        "name": "Referral Domain",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop4",
+        "name": "Referring URL t04",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop48",
+        "name": "Description t48",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop5",
+        "name": "UserID t05",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop51",
+        "name": "Internal Search Term t51 I",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop52",
+        "name": "Internal Search Count t52",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop53",
+        "name": "Internal Suggested Search Term t53",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop54",
+        "name": "Custom 54",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop58",
+        "name": "Sort By t58",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop59",
+        "name": "Internal Search Filter t59",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop6",
+        "name": "LoggedIn t06",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop61",
+        "name": "Video Title t61",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop62",
+        "name": "Eloqua Form ID",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop66",
+        "name": "Optimizely (66)",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop67",
+        "name": "Optimizely Test (67)",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop68",
+        "name": "Optimizely Test (68)",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop69",
+        "name": "Optimizely Test (69)",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop7",
+        "name": "Analytics Visitor ID t07",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop70",
+        "name": "Optimizely (70)",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop8",
+        "name": "Destination URL t08",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "prop9",
+        "name": "Visit Number t09",
+        "max_pathing_steps": 3,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "referrer",
+        "name": "Referrer",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "referrertype",
+        "name": "Referrer Type",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "referringdomain",
+        "name": "Referring Domain",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "referringdomainoriginal",
+        "name": "Original Referring Domain",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "reportsuite",
+        "name": "Report Suite",
+        "correlation": false,
+        "subrelation": false
+    },
+    {
+        "id": "returnfrequency",
+        "name": "Return Frequency",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "searchengine",
+        "name": "Search Engine",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "searchenginekeyword",
+        "name": "Search Keyword",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "searchenginenatural",
+        "name": "Natural Search Engine",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "searchenginenaturalkeyword",
+        "name": "Natural Search Keyword",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "searchenginenaturalpagerank",
+        "name": "Natural Search Page Rank",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "searchenginepaid",
+        "name": "Paid Search Engine",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "searchenginepaidkeyword",
+        "name": "Paid Search Keyword",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "server",
+        "name": "Server",
+        "correlation": true,
+        "subrelation": false
+    },
+    {
+        "id": "sitesection",
+        "name": "Site Section",
+        "max_pathing_steps": 4,
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "state",
+        "name": "State",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "surveybase",
+        "name": "Survey",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "timeprior",
+        "name": "Time Prior to Event",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "timevisit",
+        "name": "Time Spent Per Visit",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "timezone",
+        "name": "Time Zone",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "tntbase",
+        "name": "Test&Target",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "topleveldomain",
+        "name": "Top Level Domain",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "trackingcode",
+        "name": "Tracking Code",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "video",
+        "name": "Content",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "videochannel",
+        "name": "Content Channel",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "videocontenttype",
+        "name": "Content Type",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "videoplayername",
+        "name": "Content Player Name",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "videos",
+        "name": "Videos",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "videosegment",
+        "name": "Content Segment",
+        "correlation": false,
+        "subrelation": true
+    },
+    {
+        "id": "visitnumber",
+        "name": "Visit Number",
+        "correlation": true,
+        "subrelation": true
+    },
+    {
+        "id": "zip",
+        "name": "ZIP/Postal Code",
+        "correlation": false,
+        "subrelation": true
+    }
+]

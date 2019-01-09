@@ -1,0 +1,25 @@
+1. Request date: 2018-07-23 2018-07-30
+
+https://api.omniture.com/admin/1.4/rest/?method=Report.Queue
+
+
+------------------------------------
+Payload is:
+{"reportDescription": {"reportSuiteID": "servn-servicenow.com-prod", "dateFrom": "2018-07-23", "dateTo": "2018-07-30", "dateGranularity": "day", "locale": "en_US", "metrics": [{"id": "uniquevisitors"}, {"id": "visits"}, {"id": "pageviews"}, {"id": "bounces"}, {"id": "cm5509_576af356408496930352c481"}, {"id": "event89"}, {"id": "event17"}, {"id": "cm5509_59e1193408051050b2f3ec64"}, {"id": "totalvisitorsweekly"}], "elements": [{"id": "eVar48", "classification": "SurfID"}, {"id": "evar2", "name": "Page URL c02"}], "segments": [{"id": "s300007365_5b1ee51fbef0d34e1bda4081"}]}}
+
+
+2. Request date: 2018-07-16 2018-07-23
+
+
+https://api.omniture.com/admin/1.4/rest/?method=Report.Queue
+
+
+------------------------------------
+Payload is:
+{"reportDescription": {"reportSuiteID": "servn-servicenow.com-prod", "dateFrom": "2018-07-16", "dateTo": "2018-07-23", "dateGranularity": "day", "locale": "en_US", "metrics": [{"id": "uniquevisitors"}, {"id": "visits"}, {"id": "pageviews"}, {"id": "bounces"}, {"id": "cm5509_576af356408496930352c481"}, {"id": "event89"}, {"id": "event17"}, {"id": "cm5509_59e1193408051050b2f3ec64"}, {"id": "totalvisitorsweekly"}], "elements": [{"id": "eVar48", "classification": "SurfID"}, {"id": "evar2", "name": "Page URL c02"}], "segments": [{"id": "s300007365_5b1ee51fbef0d34e1bda4081"}]}}
+
+
+
+
+
+

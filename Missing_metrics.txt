@@ -1,0 +1,53 @@
+Sample Metrices not available in Metric list : 
+
+Page Views (Percent)
+
+Visits (Percent)
+
+Unique Visitors (Percent)
+
+
+id for metrics :
+
+"id": "uniquevisitors",
+	"name": "Unique Visitors",
+
+"id": "visits",
+	"name": "Visits",
+
+
+"id": "pageviews",
+	"name": "Page Views"
+
+
+"id": "bouncerate",
+	"name": "Bounce Rate"
+
+
+"id": "cm5509_576af356408496930352c481",
+	"name": "Time Spent on Page (min)",
+
+
+"id": "event89",
+	"name": "e89 Video Views"
+
+
+"id": "event17",
+	"name": "e17 Form Success"
+
+
+
+
+"id": "cm5509_59e1193408051050b2f3ec64",
+	"name": "Form Submission Rate",
+
+Account Number
+
+
+9:51 AM 12/28/2018
+
+* Form Submission is not in metric list.
+
+
+
+

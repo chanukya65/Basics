@@ -1,0 +1,1723 @@
+"report":[{
+	"id": "activityconversions",
+	"name": "Activity Conversions",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "activityimpressions",
+	"name": "Activity Impressions",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "amo_clicks",
+	"name": "AMO Clicks",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "amo_conversions",
+	"name": "AMO Conversions",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "amo_cost",
+	"name": "AMO Cost",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "amo_impressions",
+	"name": "AMO Impressions",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "amo_position",
+	"name": "AMO Pos Var",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "amo_quality_score",
+	"name": "AMO QS Var",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "averagepagedepth",
+	"name": "Average Page Depth",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "averagetimespentonpage",
+	"name": "Average Time Spent on Page",
+	"type": "time",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "averagetimespentonsite",
+	"name": "Average Time Spent on Site",
+	"type": "time",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "averagevisitdepth",
+	"name": "Average Visit Depth",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "bots",
+	"name": "Bots",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "bouncerate",
+	"name": "Bounce Rate",
+	"type": "percent",
+	"decimals": 10,
+	"formula": null
+}, {
+	"id": "bounces",
+	"name": "Bounces",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cartadditions",
+	"name": "Cart Additions",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cartremovals",
+	"name": "Cart Removals",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "carts",
+	"name": "Carts",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cartviews",
+	"name": "Cart Views",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "checkouts",
+	"name": "Checkouts",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "customersdaily",
+	"name": "Daily Unique Customers",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "customersloyal",
+	"name": "Loyal Customers",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "customersmonthly",
+	"name": "Monthly Unique Customers",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "customersnew",
+	"name": "New Customers",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "customersquarterly",
+	"name": "Quarterly Unique Customers",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "customersreturn",
+	"name": "Return Customers",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "customersweekly",
+	"name": "Weekly Unique Customers",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "customersyearly",
+	"name": "Yearly Unique Customers",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "entries",
+	"name": "Entries",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event1",
+	"name": "Internal Searches",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event100",
+	"name": "e100 KUC Event Reg Completed",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event101",
+	"name": "e101 KUC Live Stream Email Submits",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event110",
+	"name": "e110 Buy Start Event",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event111",
+	"name": "e111 Buy CC Popup",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event112",
+	"name": "e112 Buy Complete",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event113",
+	"name": "e113 Try Start Event",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event114",
+	"name": "e114 Try CC Popup",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event115",
+	"name": "e115 Try Complete",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event120",
+	"name": "e120 Internal Site Search",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event121",
+	"name": "e121 Internal Suggested Search",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event13",
+	"name": "Registrations",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event14",
+	"name": "Logins",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event16",
+	"name": "e16 Form View",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event17",
+	"name": "e17 Form Success",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event18",
+	"name": "e18 Form Fail",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event19",
+	"name": "e19 Form Success Unique",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event2",
+	"name": "Internal Searches - No Results",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event21",
+	"name": "e21 Demo Now",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event3",
+	"name": "e3 SSO Forgot Password",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event301",
+	"name": "e301 Resources Redesign Search",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event302",
+	"name": "e302 Find a Partner Search Filter",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event303",
+	"name": "e303 Resources Filter",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event304",
+	"name": "e304 Try Express Form Close",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event305",
+	"name": "e305 Resource Thank You Page Click",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event32",
+	"name": "e32 Search Filter",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event353",
+	"name": "e353 Ask: Choose Place",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event36",
+	"name": "e36Click Event",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event38",
+	"name": "e38 Page Load time (ms)",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event39",
+	"name": "Youtube Video 25%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event4",
+	"name": "e4 SSO Reset Password",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event40",
+	"name": "Youtube Video 50%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event41",
+	"name": "Youtube Video 75%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event501",
+	"name": "e501 TPP: Number of credits bought",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event502",
+	"name": "e502 TPP: Buy Certification Credits - Buy",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event503",
+	"name": "e503 TPP: Buy Certification Credits - Pay",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event504",
+	"name": "e504 TPP: Number of instances bought",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event505",
+	"name": "e505 TPP: Buy additional instances - Buy",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event506",
+	"name": "e506 TPP: Buy additional instances - Pay",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event6",
+	"name": "Drift Event",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event651",
+	"name": "e651 Support Search Results",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event652",
+	"name": "e652 How Can We Help Search Results",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event88",
+	"name": "e88 Video Time",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event89",
+	"name": "e89 Video Views",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event91",
+	"name": "e91 Video Completes",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event92",
+	"name": "e92 Video 25%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event93",
+	"name": "e93 Video 50%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event94",
+	"name": "e94 Video 75%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "event99",
+	"name": "e99 KUC Event Hotel Completed",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "exits",
+	"name": "Exits",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "experienceconfidence",
+	"name": "Experience Confidence",
+	"type": "number",
+	"decimals": 10,
+	"formula": null
+}, {
+	"id": "experiencelift",
+	"name": "Experience Lift",
+	"type": "number",
+	"decimals": 10,
+	"formula": null
+}, {
+	"id": "f:877127",
+	"name": "*Pageviews\/Visit",
+	"type": "number",
+	"decimals": 2,
+	"formula": "[pageviews] \/ [visits]"
+}, {
+	"id": "f:877128",
+	"name": "*Avg Visit Duration",
+	"type": "time",
+	"decimals": 0,
+	"formula": "[totaltimespent] \/  [visits]"
+}, {
+	"id": "f:877130",
+	"name": "*Avg Time on Page",
+	"type": "time",
+	"decimals": 0,
+	"formula": "[totaltimespent] \/ [pageviews]"
+}, {
+	"id": "f:877131",
+	"name": "*Total Time",
+	"type": "time",
+	"decimals": 0,
+	"formula": "[totaltimespent]"
+}, {
+	"id": "f:877132",
+	"name": "*Form Conversion Rate",
+	"type": "percent",
+	"decimals": 1,
+	"formula": "[event17] \/ [event16]"
+}, {
+	"id": "f:877133",
+	"name": "*Exit Rate",
+	"type": "percent",
+	"decimals": 1,
+	"formula": "[exits] \/ [visits]"
+}, {
+	"id": "f:878863",
+	"name": "*Form Submission Rate",
+	"type": "percent",
+	"decimals": 1,
+	"formula": "[event17] \/ [visitors]"
+}, {
+	"id": "f:878866",
+	"name": "*Clicks\/Unique Visitors",
+	"type": "number",
+	"decimals": 2,
+	"formula": "[event36] \/ [visitors]"
+}, {
+	"id": "f:878897",
+	"name": "*Demo Now Clicks\/Unique Visitors",
+	"type": "number",
+	"decimals": 2,
+	"formula": "[event21] \/ [visitors]"
+}, {
+	"id": "f:883564",
+	"name": "*Avg Visit Duration (NB)",
+	"type": "time",
+	"decimals": 0,
+	"formula": "[totaltimespent] \/( [visits] - [bounces] )"
+}, {
+	"id": "f:884019",
+	"name": "*Avg Time on Page (NB)",
+	"type": "time",
+	"decimals": 0,
+	"formula": "[totaltimespent] \/( [pageviews] - [bounces] )"
+}, {
+	"id": "f:884020",
+	"name": "*Pageviews\/Visit (NB)",
+	"type": "number",
+	"decimals": 2,
+	"formula": "([pageviews] - [bounces] )\/( [visits] - [bounces] )"
+}, {
+	"id": "instances",
+	"name": "Instances",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "mobileviews",
+	"name": "Mobile Views",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "mobilevisitorsdaily",
+	"name": "Mobile Daily Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "mobilevisits",
+	"name": "Mobile Visits",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "orders",
+	"name": "Orders",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "pageviews",
+	"name": "Page Views",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationcartadditions",
+	"name": "Cart Additions Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationcartremovals",
+	"name": "Cart Removals Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationcarts",
+	"name": "Carts Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationcartviews",
+	"name": "Cart Views Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationcheckouts",
+	"name": "Checkouts Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent1",
+	"name": "Internal Searches Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent100",
+	"name": "e100 KUC Event Reg Completed Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent101",
+	"name": "e101 KUC Live Stream Email Submits Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent110",
+	"name": "e110 Buy Start Event Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent111",
+	"name": "e111 Buy CC Popup Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent112",
+	"name": "e112 Buy Complete Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent113",
+	"name": "e113 Try Start Event Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent114",
+	"name": "e114 Try CC Popup Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent115",
+	"name": "e115 Try Complete Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent120",
+	"name": "e120 Internal Site Search Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent121",
+	"name": "e121 Internal Suggested Search Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent13",
+	"name": "Registrations Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent14",
+	"name": "Logins Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent16",
+	"name": "e16 Form View Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent17",
+	"name": "e17 Form Success Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent18",
+	"name": "e18 Form Fail Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent19",
+	"name": "e19 Form Success Unique Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent2",
+	"name": "Internal Searches - No Results Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent21",
+	"name": "e21 Demo Now Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent3",
+	"name": "e3 SSO Forgot Password Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent301",
+	"name": "e301 Resources Redesign Search Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent302",
+	"name": "e302 Find a Partner Search Filter Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent303",
+	"name": "e303 Resources Filter Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent304",
+	"name": "e304 Try Express Form Close Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent305",
+	"name": "e305 Resource Thank You Page Click Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent32",
+	"name": "e32 Search Filter Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent353",
+	"name": "e353 Ask: Choose Place Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent36",
+	"name": "e36Click Event Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent38",
+	"name": "e38 Page Load time (ms) Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent39",
+	"name": "Youtube Video 25% Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent4",
+	"name": "e4 SSO Reset Password Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent40",
+	"name": "Youtube Video 50% Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent41",
+	"name": "Youtube Video 75% Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent501",
+	"name": "e501 TPP: Number of credits bought Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent502",
+	"name": "e502 TPP: Buy Certification Credits - Buy Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent503",
+	"name": "e503 TPP: Buy Certification Credits - Pay Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent504",
+	"name": "e504 TPP: Number of instances bought Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent505",
+	"name": "e505 TPP: Buy additional instances - Buy Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent506",
+	"name": "e506 TPP: Buy additional instances - Pay Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent6",
+	"name": "Drift Event Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent651",
+	"name": "e651 Support Search Results Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent652",
+	"name": "e652 How Can We Help Search Results Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent88",
+	"name": "e88 Video Time Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent89",
+	"name": "e89 Video Views Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent91",
+	"name": "e91 Video Completes Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent92",
+	"name": "e92 Video 25% Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent93",
+	"name": "e93 Video 50% Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent94",
+	"name": "e94 Video 75% Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationevent99",
+	"name": "e99 KUC Event Hotel Completed Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationorders",
+	"name": "Orders Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "participationrevenue",
+	"name": "Revenue Participation",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "participationunits",
+	"name": "Units Participation",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "reloads",
+	"name": "Reloads",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "returnvisits",
+	"name": "Return Visits",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "returnvisitsdaily",
+	"name": "Daily Return Visits",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "revenue",
+	"name": "Revenue",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "singleaccess",
+	"name": "Single Access",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalcartadditions",
+	"name": "Total Cart Additions",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalcartremovals",
+	"name": "Total Cart Removals",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalcarts",
+	"name": "Total Carts",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalcartviews",
+	"name": "Total Cart Views",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalcheckouts",
+	"name": "Total Checkouts",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent1",
+	"name": "Total Internal Searches",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent100",
+	"name": "Total e100 KUC Event Reg Completed",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent101",
+	"name": "Total e101 KUC Live Stream Email Submits",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent110",
+	"name": "Total e110 Buy Start Event",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent111",
+	"name": "Total e111 Buy CC Popup",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent112",
+	"name": "Total e112 Buy Complete",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent113",
+	"name": "Total e113 Try Start Event",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent114",
+	"name": "Total e114 Try CC Popup",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent115",
+	"name": "Total e115 Try Complete",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent120",
+	"name": "Total e120 Internal Site Search",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent121",
+	"name": "Total e121 Internal Suggested Search",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent13",
+	"name": "Total Registrations",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent14",
+	"name": "Total Logins",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent16",
+	"name": "Total e16 Form View",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent17",
+	"name": "Total e17 Form Success",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent18",
+	"name": "Total e18 Form Fail",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent19",
+	"name": "Total e19 Form Success Unique",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent2",
+	"name": "Total Internal Searches - No Results",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent21",
+	"name": "Total e21 Demo Now",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent3",
+	"name": "Total e3 SSO Forgot Password",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent301",
+	"name": "Total e301 Resources Redesign Search",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent302",
+	"name": "Total e302 Find a Partner Search Filter",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent303",
+	"name": "Total e303 Resources Filter",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent304",
+	"name": "Total e304 Try Express Form Close",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent305",
+	"name": "Total e305 Resource Thank You Page Click",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent32",
+	"name": "Total e32 Search Filter",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent353",
+	"name": "Total e353 Ask: Choose Place",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent36",
+	"name": "Total e36Click Event",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent38",
+	"name": "Total e38 Page Load time (ms)",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent39",
+	"name": "Total Youtube Video 25%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent4",
+	"name": "Total e4 SSO Reset Password",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent40",
+	"name": "Total Youtube Video 50%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent41",
+	"name": "Total Youtube Video 75%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent501",
+	"name": "Total e501 TPP: Number of credits bought",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent502",
+	"name": "Total e502 TPP: Buy Certification Credits - Buy",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent503",
+	"name": "Total e503 TPP: Buy Certification Credits - Pay",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent504",
+	"name": "Total e504 TPP: Number of instances bought",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent505",
+	"name": "Total e505 TPP: Buy additional instances - Buy",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent506",
+	"name": "Total e506 TPP: Buy additional instances - Pay",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent6",
+	"name": "Total Drift Event",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent651",
+	"name": "Total e651 Support Search Results",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent652",
+	"name": "Total e652 How Can We Help Search Results",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent88",
+	"name": "Total e88 Video Time",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent89",
+	"name": "Total e89 Video Views",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent91",
+	"name": "Total e91 Video Completes",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent92",
+	"name": "Total e92 Video 25%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent93",
+	"name": "Total e93 Video 50%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent94",
+	"name": "Total e94 Video 75%",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalevent99",
+	"name": "Total e99 KUC Event Hotel Completed",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalorders",
+	"name": "Total Orders",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalpageviews",
+	"name": "Total Page Views",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalrevenue",
+	"name": "Total Revenue",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "totaltimespent",
+	"name": "Total Time Spent",
+	"type": "time",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalunits",
+	"name": "Total Units",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalvisitorsdaily",
+	"name": "Total Daily Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalvisitorshourly",
+	"name": "Total Hourly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalvisitorsmonthly",
+	"name": "Total Monthly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalvisitorsquarterly",
+	"name": "Total Quarterly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalvisitorsweekly",
+	"name": "Total Weekly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalvisitorsyearly",
+	"name": "Total Yearly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "totalvisits",
+	"name": "Total Visits",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "uniquevisitors",
+	"name": "Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "units",
+	"name": "Units",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "videocomplete",
+	"name": "Content Completes",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "videosegmentviews",
+	"name": "Content Segment Views",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "videostart",
+	"name": "Media Initiates",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "videotime",
+	"name": "Content Time Spent",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visitors",
+	"name": "Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visitorsdaily",
+	"name": "Daily Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visitorshourly",
+	"name": "Hourly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visitorsmonthly",
+	"name": "Monthly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visitorsnew",
+	"name": "New Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visitorsquarterly",
+	"name": "Quarterly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visitorsweekly",
+	"name": "Weekly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visitorsyearly",
+	"name": "Yearly Unique Visitors",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "visits",
+	"name": "Visits",
+	"type": "number",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cm5509_55de474ce4b02993b009a753",
+	"name": "Average Page Load Time (Seconds)",
+	"type": "decimal",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_56954629e4b00bd22a917631",
+	"name": "Average Page Load Time (ds)",
+	"type": "decimal",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cm5509_576af356408496930352c481",
+	"name": "Time Spent on Page (min)",
+	"type": "decimal",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5785732a5622eb33eba0d400",
+	"name": "Avg. Time on Site (min)",
+	"type": "decimal",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_58052fa70c75bb13ec421dd6",
+	"name": "Page Views per Visit",
+	"type": "decimal",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_588f8b1dc06c5c0738264e40",
+	"name": "Download Rate",
+	"type": "percent",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_588fbf7445b49c0890cd5b8d",
+	"name": "Nav\/Footer CTR",
+	"type": "percent",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_588fc00dc06c5c0738264e49",
+	"name": "Body CTR (exclude Nav\/Footer)",
+	"type": "percent",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_58c83b00a5bb571f6990d411",
+	"name": "CTR",
+	"type": "percent",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_58dac5000c75bb655652a404",
+	"name": "Avg Time on Page",
+	"type": "time",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cm5509_58f645b2408496051a9a8950",
+	"name": "c22 Instances",
+	"type": "decimal",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cm5509_59403368985eebc2660148d8",
+	"name": "Form Success",
+	"type": "decimal",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cm5509_59e1193408051050b2f3ec64",
+	"name": "Form Submission Rate",
+	"type": "percent",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_59e90f47c06c5c10c8f9311a",
+	"name": "Body CTR (exclude Nav\/Footer)_SL",
+	"type": "percent",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a32ce3e408496e926f53a36",
+	"name": "AMO Avg. Quality Score",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a32ce3f0805100d4b216b30",
+	"name": "AMO ROAS",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a32ce3fc06c5c0d2abd9264",
+	"name": "AMO CPC",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a32ce3fe3d26c79ed809013",
+	"name": "AMO Avg. Position",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a32ce40dc0e82002150888a",
+	"name": "AMO CTR",
+	"type": "percent",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a37de20b5e1f30d3f129f74",
+	"name": "AMO Avg. Quality Score",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a37de22d9777d1bf906fd3d",
+	"name": "AMO Avg. Position",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a37de237aaaf60d1688cdeb",
+	"name": "AMO CTR",
+	"type": "percent",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a37de23dc0e82002150ad18",
+	"name": "AMO ROAS",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a37de23ffd6d60d0e179255",
+	"name": "AMO CPC",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f1b7aaaf60d1688fc7d",
+	"name": "AMO Avg. Position",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f1bdc0e820021d28f8d",
+	"name": "AMO ROAS",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f1bffd6d60d0e17c150",
+	"name": "AMO Avg. Quality Score",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f1ca5bb577301327ff4",
+	"name": "AMO CTR",
+	"type": "percent",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f1cd9777d1bf9072c85",
+	"name": "AMO CPC",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f624cfe090d86cc752f",
+	"name": "AMO Avg. Position",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f62985eeb63451eae97",
+	"name": "AMO Avg. Quality Score",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f62b5e1f30d3f12cfd0",
+	"name": "AMO ROAS",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f63985eeb63451eae98",
+	"name": "AMO CTR",
+	"type": "percent",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f63ffd6d60d0e17c154",
+	"name": "AMO CPC",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f8effd6d60d0e17c156",
+	"name": "AMO Avg. Quality Score",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f8f4cfe090d86cc7530",
+	"name": "AMO CPC",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f8fb5e1f30d3f12cfd2",
+	"name": "AMO ROAS",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f8fdc0e820021d28f91",
+	"name": "AMO Avg. Position",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm5509_5a3c3f90ffd6d60d0e17c157",
+	"name": "AMO CTR",
+	"type": "percent",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm300007365_5ade582717a0453d8a81d2f6",
+	"name": "Total Time per Page",
+	"type": "decimal",
+	"decimals": 0,
+	"formula": null
+}, {
+	"id": "cm300007365_5b5660d1de3c971d4b80f122",
+	"name": "AMO Avg. Quality Score",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm300007365_5b5660d317a0455bd7a788fc",
+	"name": "AMO Avg. Position",
+	"type": "decimal",
+	"decimals": 1,
+	"formula": null
+}, {
+	"id": "cm300007365_5b5660d5ab80a6558ac753a6",
+	"name": "AMO ROAS",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm300007365_5b5660d7d39bbd4c1e30ff42",
+	"name": "AMO CPC",
+	"type": "currency",
+	"decimals": 2,
+	"formula": null
+}, {
+	"id": "cm300007365_5b5660da8b49b77c727a34f0",
+	"name": "AMO CTR",
+	"type": "percent",
+	"decimals": 1,
+	"formula": null
+}]
